@@ -1,0 +1,10 @@
+test.session  
+mbnz.session-journal
+*.session
+test.session
+mbnz.session-journal
+
+
+downloads/*
+.vscode/launch.json
+__pycache__/database.cpython-39.pyc

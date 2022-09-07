@@ -1,0 +1,37 @@
+{
+    "name": "Mohammad Bagher",
+    "Family": "Radfar",
+    "salary": 9000,
+    "address": [
+        {
+            "city": "Tehran",
+            "street": "Farahzad",
+            "No": "175",
+            "apartment": {
+                "floor": [
+                    1
+                ],
+                "door": 2
+            },
+            "test": [
+                "Hi I'm a test",
+                "Hi I'm a test"
+            ]
+        },
+        {
+            "city": "Qom",
+            "street": "Malek Ashter",
+            "pin": "315",
+            "apartment": {
+                "floor": [
+                    2
+                ],
+                "door": 3
+            },
+            "test": [
+                "Hi I'm a test",
+                "Hi I'm a test"
+            ]
+        }
+    ]
+}
